@@ -1,6 +1,6 @@
 # MyReads Project
 
-This project from Udacity, A Book Bracking App
+This project from Udacity, A Book Tracking App
 
 
 ## To Install 
